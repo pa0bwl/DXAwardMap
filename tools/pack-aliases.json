@@ -1,0 +1,5 @@
+{
+  "_comment": "Common alternative spellings of subdivision codes, per DXCC number: logged value -> official code.",
+  "1": { "PEI": "PE", "NF": "NL", "LB": "NL", "NFLD": "NL", "PQ": "QC", "QUE": "QC", "YK": "YT", "NWT": "NT", "NUN": "NU", "SAS": "SK", "MAN": "MB", "ALB": "AB", "ONT": "ON", "NB.": "NB" },
+  "150": { "VIC.": "VIC", "NSW.": "NSW", "QLD.": "QLD", "TAS.": "TAS" }
+}

@@ -1,0 +1,26 @@
+{
+  "_comment": "Manual corrections for build-world.ps1. shapes: Natural Earth shape NAME or SU_A3 -> DXCC number (0 = no DXCC). splitByLongitude: shape NAME -> [longitude, dxcc west of it, dxcc east of it].",
+  "shapes": {
+    "S. Georgia": 235,
+    "Pitcairn Is.": 172,
+    "Turks and Caicos Is.": 89,
+    "Tobago": 90,
+    "Pante Makasar": 511,
+    "Zanzibar": 470,
+    "Ulleungdo": 137,
+    "Jejudo": 137,
+    "Somaliland": 232,
+    "Vojvodina": 296,
+    "Principe": 219,
+    "Cook Is.": 234,
+    "Åland": 5,
+    "Rep. Srpska": 501,
+    "Cocos Is.": 38,
+    "Barbuda": 94,
+    "Ashmore and Cartier Is.": 0,
+    "Siachen Glacier": 0
+  },
+  "splitByLongitude": {
+    "Malaysia": [105, 299, 46]
+  }
+}

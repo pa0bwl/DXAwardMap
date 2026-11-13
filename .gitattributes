@@ -1,0 +1,4 @@
+# normalise line endings in the repository; Windows checkouts get CRLF
+* text=auto
+*.exe binary
+*.zip binary

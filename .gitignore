@@ -1,0 +1,11 @@
+# build output
+dist/
+build/
+release/
+# downloaded source lists (fetched by the tools; licences vary, see THIRD-PARTY-NOTICES.md)
+sources/
+# award lists that may not be redistributed: the program downloads them itself
+packs/ja/entities.json
+packs/rda/entities.json
+packs/dok/entities.json
+packs/urda/entities.json
